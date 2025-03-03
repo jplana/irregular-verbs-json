@@ -341,6 +341,11 @@
       "Past-Participle": "lent"
     },
     {
+        "Base": "let",
+        "Past-simple": "let",
+        "Past-Participle": "let"
+    },
+    {
       "Base": "lie (in bed)",
       "Past-simple": "lay",
       "Past-Participle": "lain"
