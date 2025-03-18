@@ -42,7 +42,17 @@ known_verbs = [
     'put',
     'ride',
     'run',
-    'see'
+    'see',
+    'sell',
+    'sing',
+    'sleep',
+    'smell',
+    'speak',
+    'spend',
+    'swim',
+    'swing',
+    'throw',
+    'wake'
 
 ]
 
